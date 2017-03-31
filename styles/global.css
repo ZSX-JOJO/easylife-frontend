@@ -865,8 +865,8 @@ select, input[type="search"] {
 .flip-items {
     position: relative;
     top: -16px;
-    height: 336px;
-    width: 250px;
+    height: 336px !important;
+    width: 250px !important;
 }
 
 .flip-items p {
